@@ -8,6 +8,7 @@ namespace CONDICIONALES
         {
             int edad; 
             Console.WriteLine("Por favor, Ingrese su edad");
+//Hola, Esto es una Prueba :P
             int edad; 
             edad = int.Parse(Console.ReadLine());
             if (edad)
