@@ -20,6 +20,7 @@ namespace CONDICIONALES
             { 
                 Console.WriteLine("USTED ES MENOR DE EDAD ¡REGISTRO NO EXITOSO!")
             }
+
             Console.ReadLine();
         }
     }
