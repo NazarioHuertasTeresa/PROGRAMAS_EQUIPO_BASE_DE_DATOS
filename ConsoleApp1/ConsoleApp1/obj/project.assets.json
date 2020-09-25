@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\ldavi\\.nuget\\packages\\": {}
+    "C:\\Users\\RICARDO\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ldavi\\OneDrive\\Documentos\\GitHub\\PROGRAMAS_EQUIPO_BASE_DE_DATOS\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\RICARDO\\Documents\\GitHub\\PROGRAMAS_EQUIPO_BASE_DE_DATOS\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\ldavi\\OneDrive\\Documentos\\GitHub\\PROGRAMAS_EQUIPO_BASE_DE_DATOS\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
-      "packagesPath": "C:\\Users\\ldavi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ldavi\\OneDrive\\Documentos\\GitHub\\PROGRAMAS_EQUIPO_BASE_DE_DATOS\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "projectPath": "C:\\Users\\RICARDO\\Documents\\GitHub\\PROGRAMAS_EQUIPO_BASE_DE_DATOS\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\RICARDO\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\RICARDO\\Documents\\GitHub\\PROGRAMAS_EQUIPO_BASE_DE_DATOS\\ConsoleApp1\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ldavi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\RICARDO\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
