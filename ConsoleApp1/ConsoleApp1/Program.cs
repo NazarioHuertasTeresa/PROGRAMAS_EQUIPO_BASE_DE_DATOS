@@ -7,21 +7,19 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             int edad;
-            Console.WriteLine("Por favor, Ingrese su edad");
-            int edad;
+
+            Console.WriteLine("HOLA, BUENAS TARDES");
             edad = int.Parse(Console.ReadLine());
-            if (edad)
-                Console.WriteLine("Ingrese su edad: ")
-            if edad >= 18)
+            if (edad >= 18)
             {
-                Console.WriteLine(" USTED ES MAYOR DE EDAD ¡SU REGISTRO HA SIDO EXITOSO!");
+
+                Console.WriteLine(" REGISTRO EXITOSO USTED ES MAYOR DE EDAD");
             }
             else
             {
-                Console.WriteLine("USTED ES MENOR DE EDAD ¡REGISTRO NO EXITOSO!")
+                Console.WriteLine("REGISTRO NO EXITOSO, USTED ES MENOR DE EDAD ");
             }
-
-            Console.ReadLine();
+            Console.ReadLine(); 
         }
     }
 }
