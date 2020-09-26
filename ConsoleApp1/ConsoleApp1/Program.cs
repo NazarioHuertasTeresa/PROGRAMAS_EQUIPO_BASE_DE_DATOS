@@ -1,5 +1,6 @@
 ﻿using System;
 
+
 namespace ConsoleApp1
 {
     class Program
@@ -9,6 +10,7 @@ namespace ConsoleApp1
             int edad;
 
             Console.WriteLine("HOLA, BUENAS TARDES");
+            Console.Write("ingresa su edad "); 
             edad = int.Parse(Console.ReadLine());
             if (edad >= 18)
             {
@@ -21,5 +23,6 @@ namespace ConsoleApp1
             }
             Console.ReadLine(); 
         }
+
     }
 }
